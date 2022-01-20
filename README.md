@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://github.com/septiana9609/septiana9609/tree/main/icons/header_1.png)
+![](https://github.com/septiana9609/septiana9609/blob/main/icons/header_1.png)
 
 I make elegantly professional **💻⎈🐳 Business, 📱 Blogs 🪙 eCommerce and 🌐 online Forums Websites** for a living and also **Develop some Mobile Apps**. 🌈    
 
