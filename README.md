@@ -2,7 +2,7 @@
 
 ![](https://github.com/septiana9609/septiana9609/blob/main/icons/header_1.png)
 
-I make elegantly professional **💻⎈🐳 Business, 📱 Blogs 🪙 eCommerce and 🌐 online Forums Websites** for a living and also **Develop some Mobile Apps**. 🌈    
+I make elegantly professional **💻⎈🐳 Business, 📱 Blogs, eCommerce and 🌐 online Forums Websites** for a living and also **Develop some Mobile Apps**. 🌈    
 
 * 🧐   Develope on Full-stack. Recent focus on Blockchain development.
 * 💼   Used to be a Front-end Engineer at our company, but now I'm a Full-stack & Mobile developer.
